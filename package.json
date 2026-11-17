@@ -1,0 +1,16 @@
+{
+  "name": "icon-updater",
+  "version": "1.1.0",
+  "description": "Automatic countdown game icons for Roblox (IN 3 HOURS -> NOW) via Open Cloud. Made by superer325 (Discord: oncefreedomreplies).",
+  "author": "superer325 (Discord: oncefreedomreplies)",
+  "license": "SEE LICENSE IN LICENSE",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build:protected": "node tools/build-protected.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true
+}
